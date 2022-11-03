@@ -1,0 +1,11 @@
+This project is inspired by Assignment 2 from COMP 3010 from my 2021 comp sci term.
+We made a twitter clone with a front end and back end.
+
+https://developer.mozilla.org/en-US/docs/Learn/Tools_and_testing/Client-side_JavaScript_frameworks/React_getting_started
+
+https://www.w3schools.com/
+https://www.w3schools.com/react/react_router.asp
+
+Full stack python database sqlite3
+https://www.fullstackpython.com/react.html
+https://levelup.gitconnected.com/full-stack-web-app-with-python-react-and-bootstrap-backend-8592baa6e4eb
