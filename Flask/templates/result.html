@@ -1,0 +1,13 @@
+<!doctype html>
+<html>
+   <body>
+      {{ msg }}
+      <h2><a href = "http://localhost:3000/">go back to home page</a></h2>
+      <body onload="myFunction()"></body>
+      <script>
+         function myFunction() {
+            window.location.replace("http://localhost:3000/?uname={{ username }}")
+         }
+      </script>
+   </body>
+</html>
