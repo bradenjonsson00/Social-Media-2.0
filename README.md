@@ -10,3 +10,8 @@ Uses JSON in HTTP requests to communicate.
 
 I used react-router to manage the different pages before I started the backend.  
 Flask is used to handle http requests for the database. I chose flask because I had used it before. 
+
+## Funcionality
+Users can sign up or log in. This is done by sending a POST request to the server.  
+The server interacts with its database  and tells the front end what to do in response.  
+Once the user is signed in, they stay signed in with cookies, until they sign out.
