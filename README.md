@@ -16,3 +16,9 @@ Flask is used to handle http requests for the database. I chose flask because I 
 Users can sign up or log in. This is done by sending a POST request to the server.  
 The server interacts with its database  and tells the front end what to do in response.  
 Once the user is signed in, they stay signed in with cookies, until they sign out.
+
+## Running the Program
+1. Install python, flask, sqlite3, node, and react
+2. Download/clone the folder
+3. In one command prompt enter the Backend folder and run "flask run"
+4. In a second command prompt enter the Frontend folder and run "npm start"
